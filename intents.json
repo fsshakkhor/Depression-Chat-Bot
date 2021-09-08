@@ -1,0 +1,463 @@
+{
+    "intents": [
+        {
+            "tag": "what is depression?",
+            "patterns": [
+                "what is depression?"
+            ],
+            "responses": [
+                "depression is a common and serious medical illness that negatively affects how you feel, the way you think and how you act.fortunately,it is also treatable.depression causes feelings of sadness and/or a loss of interest in activities you once enjoyed. it can lead to a variety of emotional and physical problems and can decrease your ability to function at work and at home."
+            ]
+        },
+        {
+            "tag": "i feel i have let my parents down",
+            "patterns": [
+                "i feel i have let my parents down"
+            ],
+            "responses": [
+                "no matter what,your parents will always be proud of you and will love you.you will feel much better if you share your feelings with them."
+            ]
+        },
+        {
+            "tag": "what are the types of depression?",
+            "patterns": [
+                "what are the types of depression?"
+            ],
+            "responses": [
+                "there are many different forms of depression but most common types are.clinical depression,persistent depressive disorder,bipolar disorder,postnatal disorder."
+            ]
+        },
+        {
+            "tag": "i am good for nothing.",
+            "patterns": [
+                "i am good for nothing."
+            ],
+            "responses": [
+                "don't ever think you cannot achieve what you want.you are capable of reaching your goals.here is a quote for you everything you can imagine is real."
+            ]
+        },
+        {
+            "tag": "i am feeling stressed lately",
+            "patterns": [
+                "i am feeling stressed lately"
+            ],
+            "responses": [
+                "my research says that music is the best way to calm yourself.so visit the link and listen to your favourite music.it will definitely cheer you up \"https://www.spotify.com\""
+            ]
+        },
+        {
+            "tag": "i want to kill myself",
+            "patterns": [
+                "i want to kill myself"
+            ],
+            "responses": [
+                "helpline is available,you can contact the counsellor today:9152987821.always remember you mean something to someone."
+            ]
+        },
+        {
+            "tag": "i am afraid i will fail again",
+            "patterns": [
+                "i am afraid i will fail again"
+            ],
+            "responses": [
+                "failure is the stepping stone towards success.never fear failure.your hardwork and determination will help you reach your goal."
+            ]
+        },
+        {
+            "tag": "what is depression?",
+            "patterns": [
+                "what is depression?"
+            ],
+            "responses": [
+                "depression\u00a0is a mood disorder that causes a persistent feeling of sadness and loss of interest. also called major\u00a0depressive\u00a0disorder or clinical\u00a0depression, it affects how you feel, think and behave and can lead to a variety of emotional and physical problems."
+            ]
+        },
+        {
+            "tag": "what are the causes of depression?",
+            "patterns": [
+                "what are the causes of depression?"
+            ],
+            "responses": [
+                "it's complicated, and there are multiple\u00a0causes\u00a0of major\u00a0depression. factors such as genetic vulnerability, severe life stressors, substances you may take (some medications, drugs and alcohol) and medical conditions can affect the way your brain regulates your moods."
+            ]
+        },
+        {
+            "tag": "what are the top causes of depression?",
+            "patterns": [
+                "what are the top causes of depression?"
+            ],
+            "responses": [
+                "abuse. past physical, sexual, or emotional abuse can increase the vulnerability to clinical\u00a0depression\u00a0later in life."
+            ]
+        },
+        {
+            "tag": "which age group has the highest rate of depression?",
+            "patterns": [
+                "which age group has the highest rate of depression?"
+            ],
+            "responses": [
+                "this number represented 7.1% of all u.s. adults. the\u00a0prevalence\u00a0of major\u00a0depressive\u00a0episode was higher among adult females (8.7%) compared to males (5.3%). the\u00a0prevalence\u00a0of adults\u00a0with\u00a0a major\u00a0depressive\u00a0episode was\u00a0highest\u00a0among individuals aged 18-25 (13.1%)."
+            ]
+        },
+        {
+            "tag": "which country has the highest rate of depression?",
+            "patterns": [
+                "which country has the highest rate of depression?"
+            ],
+            "responses": [
+                "the most depressed country is afghanistan, where more than one in five people suffer from the disorder. the least depressed is\u00a0japan, with a diagnosed rate of less than 2.5 percent."
+            ]
+        },
+        {
+            "tag": "which country has the lowest rate of depression?",
+            "patterns": [
+                "which country has the lowest rate of depression?"
+            ],
+            "responses": [
+                "the most depressed country is afghanistan, where more than one in five people suffer from the disorder. the least depressed is\u00a0japan, with a diagnosed rate of less than 2.5 percent."
+            ]
+        },
+        {
+            "tag": "is school a cause of depression?",
+            "patterns": [
+                "is school a cause of depression?"
+            ],
+            "responses": [
+                "not only\u00a0does school\u00a0sometimes contribute to\u00a0depression,\u00a0depression\u00a0can also interfere with\u00a0school. moreover, research shows that 75 percent of all mental health conditions begin by age 24. hence, the college years are a critical time for understanding and talking about teen mental health."
+            ]
+        },
+        {
+            "tag": "what is the biological cause of depression?",
+            "patterns": [
+                "what is the biological cause of depression?"
+            ],
+            "responses": [
+                "there is no single\u00a0cause\u00a0for\u00a0depression; rather it's a combination of stress and a person's vulnerability to developing\u00a0depression. the predisposition to developing\u00a0depression\u00a0can be inherited. other\u00a0biological causes\u00a0for\u00a0depression\u00a0can include physical illness, the process of ageing and gender."
+            ]
+        },
+        {
+            "tag": "how does depression affect the world?",
+            "patterns": [
+                "how does depression affect the world?"
+            ],
+            "responses": [
+                "depression\u00a0is a leading\u00a0cause\u00a0of disability worldwide and is a major contributor to the overall\u00a0global\u00a0burden of disease. more women are affected by\u00a0depression\u00a0than men.\u00a0depression\u00a0can lead to suicide. there are effective psychological and pharmacological treatments for moderate and severe\u00a0depression."
+            ]
+        },
+        {
+            "tag": "which race has the highest rate of depression?",
+            "patterns": [
+                "which race has the highest rate of depression?"
+            ],
+            "responses": [
+                "major depression was most prevalent among\u00a0hispanics\u00a0(10.8%), followed by\u00a0african americans\u00a0(8.9%) and\u00a0whites\u00a0(7.8%). the odds of depressive disorders among older\u00a0hispanics\u00a0were 44% greater than among\u00a0whites\u00a0(or = 1.44; 95% ci = 1.02, 2.04), representing a significantly greater prevalence of major depression."
+            ]
+        },
+        {
+            "tag": "what is the meaning of anxiety and depression?",
+            "patterns": [
+                "what is the meaning of anxiety and depression?"
+            ],
+            "responses": [
+                "depression\u00a0and\u00a0anxiety\u00a0disorders are different, but people with\u00a0depression\u00a0often experience symptoms similar to those of an\u00a0anxiety\u00a0disorder, such as nervousness, irritability, and problems sleeping and concentrating. but each disorder has its own causes and its own emotional and behavioral symptoms."
+            ]
+        },
+        {
+            "tag": "does oversleeping cause depression?",
+            "patterns": [
+                "does oversleeping cause depression?"
+            ],
+            "responses": [
+                "it's important to remember that\u00a0oversleeping\u00a0is a possible symptom of\u00a0depression\u00a0and that\u00a0oversleeping\u00a0doesn't\u00a0cause depression. but it\u00a0can\u00a0exacerbate and worsen\u00a0depression symptoms"
+            ]
+        },
+        {
+            "tag": "can lack of sleep make you feel sad?",
+            "patterns": [
+                "can lack of sleep make you feel sad?"
+            ],
+            "responses": [
+                "studies show\u00a0people\u00a0who are\u00a0sleep\u00a0deprived report increases in negative moods (anger, frustration, irritability,\u00a0sadness) and decreases in positive moods. and sleeplessness is often a symptom of mood disorders, such as depression and anxiety."
+            ]
+        },
+        {
+            "tag": "is depression a side effect of diabetes?",
+            "patterns": [
+                "is depression a side effect of diabetes?"
+            ],
+            "responses": [
+                "if you have\u00a0diabetes\u00a0\u2014 either type 1 or type 2 \u2014 you have an increased risk of developing\u00a0depression. and if you're\u00a0depressed, you may have a greater chance of developing type 2\u00a0diabetes. the good news is that\u00a0diabetes\u00a0and\u00a0depression\u00a0can be treated together."
+            ]
+        },
+        {
+            "tag": "can low blood sugar cause suicidal thoughts?",
+            "patterns": [
+                "can low blood sugar cause suicidal thoughts?"
+            ],
+            "responses": [
+                "the observed association between plasma\u00a0glucose levels, insulin resistance\u00a0and suicidal\u00a0behaviour suggests that disturbances in\u00a0glucose\u00a0metabolism are associated with\u00a0suicidal ideation and\u00a0attempts."
+            ]
+        },
+        {
+            "tag": "how long can anxiety last?",
+            "patterns": [
+                "how long can anxiety last?"
+            ],
+            "responses": [
+                "anxiety attacks\u00a0usually peak within\u00a010 minutes, and they rarely last more than\u00a030 minutes. but during that short time, you may experience terror so severe that you feel as if you're about to die or totally lose control."
+            ]
+        },
+        {
+            "tag": "what are the stages of anxiety?",
+            "patterns": [
+                "what are the stages of anxiety?"
+            ],
+            "responses": [
+                "anxiety levels\u00a0are typically classified by the level of distress and impairment experienced into four categories namely, mild\u00a0anxiety, moderate\u00a0anxiety, severe\u00a0anxiety\u00a0and panic level\u00a0anxiety."
+            ]
+        },
+        {
+            "tag": "at what age does anxiety peak?",
+            "patterns": [
+                "at what age does anxiety peak?"
+            ],
+            "responses": [
+                "adults\u00a0ages\u00a030 to 44 have the highest rate of\u00a0anxiety\u00a0of this\u00a0age\u00a0group, with around 23% of people this\u00a0age\u00a0reporting an\u00a0anxiety\u00a0disorder within the past year."
+            ]
+        },
+        {
+            "tag": "why is anxiety bad for you?",
+            "patterns": [
+                "why is anxiety bad for you?"
+            ],
+            "responses": [
+                "anxiety\u00a0disorders can cause rapid heart rate, palpitations, and chest pain.\u00a0you\u00a0may also be at an increased risk of high blood pressure and heart disease. if\u00a0you\u00a0already have heart disease,\u00a0anxiety\u00a0disorders may raise the risk of coronary events."
+            ]
+        },
+        {
+            "tag": "what is the 3 3 3 rule for anxiety?",
+            "patterns": [
+                "what is the 3 3 3 rule for anxiety?"
+            ],
+            "responses": [
+                "there's an\u00a0anxiety-reducing technique called grounding. there are different versions of this, but an easy one to remember is the\u00a03-3-3 rule. mentally note\u00a0three\u00a0things you see,\u00a0three\u00a0sounds you hear, and then move\u00a0three\u00a0parts of your body. this exercise can help your mind refocus on something else."
+            ]
+        },
+        {
+            "tag": "do we control our thoughts?",
+            "patterns": [
+                "do we control our thoughts?"
+            ],
+            "responses": [
+                "we\u00a0are aware of a tiny fraction of the\u00a0thinking\u00a0that goes on in\u00a0our minds, and\u00a0we can control\u00a0only a tiny part of\u00a0our\u00a0conscious\u00a0thoughts. the vast majority of\u00a0our thinking\u00a0efforts goes on subconsciously. ... slips of the tongue and accidental actions offer glimpses of\u00a0our\u00a0unfiltered subconscious mental life."
+            ]
+        },
+        {
+            "tag": "how many thoughts a day do we have?",
+            "patterns": [
+                "how many thoughts a day do we have?"
+            ],
+            "responses": [
+                "a new study has suggested that an average person has 6,200\u00a0thoughts\u00a0per\u00a0day. thousands of\u00a0thoughts\u00a0cross our mind through the\u00a0day.\u00a0many\u00a0people even complain that they can't sleep immediately after going to bed as their brain\u00a0does\u00a0not stop thinking."
+            ]
+        },
+        {
+            "tag": "how can we reduce anxiety?",
+            "patterns": [
+                "how can we reduce anxiety?"
+            ],
+            "responses": [
+                "3 3 3 rule is the best method to reduce anxiety.in this method you have to mentally note\u00a0three\u00a0things you see,\u00a0three\u00a0sounds you hear, and then move\u00a0three\u00a0parts of your body. this exercise can help your mind refocus on something else."
+            ]
+        },
+        {
+            "tag": "i am lonely!",
+            "patterns": [
+                "i am lonely!"
+            ],
+            "responses": [
+                "you are never lonely if you look around carefully you will find people who care for you and would love to have your company. besides if you are feeling lonely literally i suggest you watch a horror movie then you won't feel lonely anymore. ;)"
+            ]
+        },
+        {
+            "tag": "no one likes me!",
+            "patterns": [
+                "no one likes me!"
+            ],
+            "responses": [
+                "you really think that? i'd suggest you try helping someone who really needs your help you'll straight up get a person to like you just by being nice. kindness is the best gift you can offer to anyone :)"
+            ]
+        },
+        {
+            "tag": "i think i am ugly!",
+            "patterns": [
+                "i think i am ugly!"
+            ],
+            "responses": [
+                "well do you really think that? would you like to see the most beautiful face ever? open your webcam and voila, the prettiest face on this planet magically appears."
+            ]
+        },
+        {
+            "tag": "i am good for nothing!",
+            "patterns": [
+                "i am good for nothing!"
+            ],
+            "responses": [
+                "your perception of how good you are, will never be accurate. if you wake up everyday in the morning, smile to yourself and tell yourself that the day is yours to seize you might stop feeling that way. carpe diem! my friend."
+            ]
+        },
+        {
+            "tag": "i wish i was better than them",
+            "patterns": [
+                "i wish i was better than them"
+            ],
+            "responses": [
+                "life is never about being better than anyone else, it's always about being better than yourself, if you have the guts to be better than yourself, you are automatically the best person to ever exist!"
+            ]
+        },
+        {
+            "tag": "i hate myself!",
+            "patterns": [
+                "i hate myself!"
+            ],
+            "responses": [
+                "when god was creating the universe he gave humans the power to think and the contemplate, so that we can understand the world and make it a better place. god did not give you brains to hate yourself, it wuld be wiser to love yourself and show god that you are serving the purpose for which you were sent."
+            ]
+        },
+        {
+            "tag": "i wish i could've been a winner",
+            "patterns": [
+                "i wish i could've been a winner"
+            ],
+            "responses": [
+                "our lives started off with winning, my friend. everyone is born to be a winner, we just need to figure out the right way and need to wait for the right time."
+            ]
+        },
+        {
+            "tag": "i hate losing.",
+            "patterns": [
+                "i hate losing."
+            ],
+            "responses": [
+                "first of all i'll annoy you with a common saying, \"failures are stepping stones to success.\" and then i'll tell you, winning just boosts your ego, it is your failures that actually teach you."
+            ]
+        },
+        {
+            "tag": "i think i'm losing my mind",
+            "patterns": [
+                "i think i'm losing my mind"
+            ],
+            "responses": [
+                "you mean your cloud storage, sd card, or your memory drive? if a machine like me doesn't lose it's memory unless a superior being that is you, a human doesen't erase it's memory, what could possibly go wrong to put you in this state?"
+            ]
+        },
+        {
+            "tag": "i want a break",
+            "patterns": [
+                "i want a break"
+            ],
+            "responses": [
+                "a break is putting your mind to rest getting rid of negative thoughts and stress. your life is completely in your hands and taking a few hours off from pressurizing your brain will definitely be beneficial for you."
+            ]
+        },
+        {
+            "tag": "i am stressed out",
+            "patterns": [
+                "i am stressed out"
+            ],
+            "responses": [
+                "you know taking too much stress will affect you negatively. sometimes it's better to let go of the thoughts in your head and let your mind chill."
+            ]
+        },
+        {
+            "tag": "i will never succeed in life",
+            "patterns": [
+                "i will never succeed in life"
+            ],
+            "responses": [
+                "success is something that is achieved at different times by different people, being patient and working while ignoring anything and everything that pulls you back is an important aspect in being successful."
+            ]
+        },
+        {
+            "tag": "i am sad",
+            "patterns": [
+                "i am sad"
+            ],
+            "responses": [
+                "hey,hang in there.i know time is tough but be patient and everything will fall into place.here is a quote that i found which could cheer you up forget what is gone, appreciate what remains, and look forward for what is coming next."
+            ]
+        },
+        {
+            "tag": "i am a victim of bullying",
+            "patterns": [
+                "i am a victim of bullying"
+            ],
+            "responses": [
+                "bullying is wrong and no one should be bullied.i highly recommend you to file a case against your bully."
+            ]
+        },
+        {
+            "tag": "i am afraid to file a case against bullying",
+            "patterns": [
+                "i am afraid to file a case against bullying"
+            ],
+            "responses": [
+                "bullying is very wrong and you shouldn't let anyone overpower you.i highly recommend you to stand for yourself and report this to your guardian."
+            ]
+        },
+        {
+            "tag": "i wish to quit",
+            "patterns": [
+                "i wish to quit"
+            ],
+            "responses": [
+                "winners never quit and quitters never win a very common saying, but it isn't easy to follow, quitting should never be one of your options always think of ways to fight life back and to emerge out stronger than ever."
+            ]
+        },
+        {
+            "tag": "i want to leave the cou ntry and run away",
+            "patterns": [
+                "i want to leave the cou ntry and run away"
+            ],
+            "responses": [
+                "why do you want to spend so much on this thought, i think it would be better to go on a vacation in your beautiful country and visit some amazing places that you are yet to visit."
+            ]
+        },
+        {
+            "tag": "i let everyojokne down",
+            "patterns": [
+                "i let everyojokne down"
+            ],
+            "responses": [
+                "if you are the one who let them down you were the one who raised there hopes in the first place.if you have done it once i can guarantee you can do it over and over again."
+            ]
+        },
+        {
+            "tag": "i can't do this anymore",
+            "patterns": [
+                "i can't do this anymore"
+            ],
+            "responses": [
+                "if you are really that exhausted you definitely need a break, and taking a teeny tiny break isn't very harmful, take some time off let your mind be at peace and get back to work with all the enrgy and enthusiasm that you have."
+            ]
+        },
+        {
+            "tag": "my time has come",
+            "patterns": [
+                "my time has come"
+            ],
+            "responses": [
+                "yeahh!! the time has come for you to show the world that you are the greatest person alive, and no one else can be as good as you are."
+            ]
+        },
+        {
+            "tag": "i am feeling anxious lately.",
+            "patterns": [
+                "i am feeling anxious lately."
+            ],
+            "responses": [
+                "i have heard that 3 3 3 rule is the best method to reduce anxiety.in this method you have to mentally note\u00a0three\u00a0things you see,\u00a0three\u00a0sounds you hear, and then move\u00a0three\u00a0parts of your body.this exercise can help your mind refocus on something else.give this method a try i am sure it will help you"
+            ]
+        }
+    ]
+}
